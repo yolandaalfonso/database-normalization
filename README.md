@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo normalizar una tabla de datos proporcionada en formato PDF y, posteriormente, crear diagramas de bases de datos a partir del modelo relacional resultante.
 
-##Normalización de la tabla
+## Normalización de la tabla
 
 Se ha tomado la tabla de datos no normalizada del PDF y se ha aplicado un proceso de normalización para eliminar redundancias y dependencias anómalas, siguiendo las formas normales. El proceso de normalización se realizó en Google Sheets para una mejor visualización y organización.
 
